@@ -1,0 +1,7 @@
+{
+  "name": "qual-cidade",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

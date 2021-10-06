@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "qual-cidade",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
