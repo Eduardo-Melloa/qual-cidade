@@ -2,8 +2,5 @@
 	"appId": "io.ionic.starter",
 	"appName": "qual-cidade",
 	"webDir": "dist",
-	"bundledWebRuntime": false,
-	"server":{
-		"cleartext": true
-	}
+	"bundledWebRuntime": false
 }
